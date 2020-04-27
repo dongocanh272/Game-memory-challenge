@@ -1,4 +1,4 @@
-alert("Hint: Remember all your clicked, in the next level you will type it again ");
+alert("Hint: Remember all your clicked, in the next level you will type it again "); 
 var buttonColours = ["red", "blue", "green", "yellow"];
 
 var gamePattern = [];
