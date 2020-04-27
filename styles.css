@@ -24,9 +24,9 @@ h3{
 .btn {
   margin: 25px;
   display: inline-block;
-  height: 200px;
-  width: 200px;
-  border: 10px solid black;
+  height: 150px;
+  width: 150px;
+  border: 5px solid rgb(0, 189, 236);
   border-radius: 20%;
 }
 
